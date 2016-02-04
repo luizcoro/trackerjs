@@ -28,7 +28,7 @@ GRAPH2,
 VIDEOSTART,
 VIDEOSTOP.
 
-The library also calls third libraries built-in code to get others informations like the used browser, user ip, url and an unique fingerprint based on fingerprint.js.
+The library also calls third libraries built-in code to get others information like the used browser, user ip, url and an unique fingerprint based on fingerprint.js.
 
 
 To use in another website the code must be changed.
